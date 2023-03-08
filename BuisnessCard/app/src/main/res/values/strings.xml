@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Buisness Card</string>
+    <string name="android_developer">Android Developer Extraordinaire</string>
+    <string name="phone_icon_desc">Phone icon</string>
+    <string name="share_icon_desc">Share icon</string>
+    <string name="email_icon_desc">Email icon</string>
+</resources>

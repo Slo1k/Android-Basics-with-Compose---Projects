@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="atelier_title">Atelier spiczastych kapeluszy</string>
+    <string name="dragon_ball_title">Dragon Ball Full Color</string>
+    <string name="piekielny_raj_title">Piekielny Raj</string>
+    <string name="atelier_author">Kamome Shirahama</string>
+    <string name="dragon_ball_author">Akira Toriyama</string>
+    <string name="piekilny_raj_author">Yujui Kaku</string>
+    <string name="atelier_year">(2022)</string>
+    <string name="dragon_ball_year">(2023)</string>
+    <string name="piekilny_raj_year">(2020)</string>
+</resources>
